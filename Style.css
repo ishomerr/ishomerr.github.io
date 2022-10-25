@@ -1,0 +1,147 @@
+*,
+html {
+    margin : 0;
+    padding : 0;
+}
+
+body {
+    
+    background-position: top center;
+    background-size: 1350px;
+
+}
+
+.navbar {
+    background-color: darkcyan!important;
+}
+
+.ul-navbar {
+    display: flex;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+    padding-left: 900px;
+
+}
+
+.li-navbar {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    font-size: 20px;
+}
+
+.li-navbar:hover {
+    background-color: white;
+    border-radius: 50px;
+}
+
+.img-content {
+    width: 120px;
+    height: 80px;
+    position: absolute;
+    top: 0px;
+    left: 50px;
+    
+}
+
+.a-navbar {
+    color: black;   
+    text-decoration: none;
+
+}
+
+.container-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.h1-name {
+    color: rgb(33, 43, 14);
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: xx-large;
+    position: absolute;
+    top: 20px;
+    left: 170px;
+}
+
+.carousel-item {
+    align-items: center;
+    background-color: gray;
+
+}
+
+.kontak-logo {
+    position: absolute;
+    margin-top: 110px;
+    left: 700px;
+    width: 100px;
+    height: 100px;
+
+}
+
+.article-logo {
+    position: absolute;
+    margin-top: 110px;
+    left: 900px;
+    width: 100px;
+    height: 100px;
+
+}
+
+.telpon-logo {
+    position: absolute;
+    margin-top: 110px;
+    left: 1100px;
+    width: 100px;
+    height: 100px;
+
+}
+.warna {
+    background-color:darkcyan;
+    height: 300px;
+}
+
+.copyright {
+    height: 30px;
+    background-color:grey;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.copyright {
+    height: 30px;
+    background-color:#182747;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 1920px;
+  }
+
+  /* Journey1 css */
+
+  .form {
+    margin-top: 10px;
+    margin-left: 375px;
+    width: 600px;
+  }
+
+  .h2-content {
+    margin-top: 400px;
+    margin-left: 450px;
+    width: 400px;
+  }
+
+.bgk {
+position: relative;
+width: 2000px;
+}
+
+
